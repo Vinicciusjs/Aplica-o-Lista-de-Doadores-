@@ -1,4 +1,4 @@
-🇺🇸/[🇧🇷](https://github.com/Vinicciusjs/MaratonaDev3-Lista-de-Doadores-Sangue/blob/master/README.md) 
+[🇺🇸](https://github.com/Vinicciusjs/MaratonaDev3-Lista-de-Doadores-Sangue/blob/master/README%20ENG.MD)/[🇧🇷](https://github.com/Vinicciusjs/MaratonaDev3-Lista-de-Doadores-Sangue/blob/master/README.md) 
 
 <p align = "center">
 <a href="#Introdução">Introduction</a> |                                                                                                  <a href="#Funcionamento">Running</a> |                                                                                                          <a href="Procedimentos">Procedures</a>
