@@ -1,7 +1,7 @@
 <p style="text-align: right"> 🇺🇸 /  🇧🇷 </p>
 
 <p style="text-align: center">
-[Introduction](#Introdução) | [Running](#Funcionamento) | [Procedures](#Procedimentos)
+<a href="#Introdução">Introduction</a> |                                                           <a href="#Funcionamento">Running</a> |                                                             <a href="Procedimentos">Procedures</a>
 </p>
 
 <div id='Introdução'/>  
