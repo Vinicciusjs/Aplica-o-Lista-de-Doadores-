@@ -10,7 +10,7 @@
 Application created from "Maratona Dev 3.0". On the front-end you can find the introdu ction of the situation and the form to capture the data of a blood donator (name,e-mail and blood type). The back-end is reponsible with the configuration of the server and register the data captured in the front-end in a database. 
 </p>
 
-Inicial        |  Formulário
+Initial Page        |  Form
 :-------------------------:|:-------------------------:
 ![](https://i.imgur.com/gkM9vZg.png)  |  ![](https://i.imgur.com/hvKsewO.png)|
 <br /><br /><br /><br /><br />
