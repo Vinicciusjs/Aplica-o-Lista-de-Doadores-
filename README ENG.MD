@@ -25,10 +25,7 @@ The button "Quero Ajudar" (I want to help) will open the form. The form must be 
 <div id='Procedimentos'/>  
 <h2 align = "center">Procedures to start the application</h2>
 
-
-[Node.js](https://nodejs.org/en/download/)installation: Download and follow the installation procedures.
-
-
+[Node.js](https://nodejs.org/en/download/) installation: Download and follow the installation procedures.
 
 <p align = "justify"> Starting the server: Use the commando "npm start" at the terminal (CTRL + ') do vscode (CTRL + C to close the server).
 </p>
