@@ -1,5 +1,10 @@
 [🇺🇸](https://github.com/Vinicciusjs/MaratonaDev3-Lista-de-Doadores-Sangue/blob/master/README%20ENG.MD)/[🇧🇷](https://github.com/Vinicciusjs/MaratonaDev3-Lista-de-Doadores-Sangue/blob/master/README.md) 
 
+<p align = "center">                                                                                                                             <img alt="Javascript" src="https://img.shields.io/badge/Code-Javascript-blue">                                                                 <img alt="CSS" src="https://img.shields.io/badge/Style-CSS-RED">                                                                                                          
+<img alt="CSS" src="https://img.shields.io/badge/WEB-HTML-orange">   
+<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
+</p>
+
 <p align = "center">
 <a href="#Introdução">Introdução</a> |                                                                                                  <a href="#Funcionamento">Funcionamento</a> |                                                                                                          <a href="Procedimentos">Procedimentos</a>
 </p>
